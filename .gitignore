@@ -1,2 +1,12 @@
 .DS_Store
+app/.env
+.env
 delete-me.txt
+
+bin/
+lib/
+include/
+pyvenv.cfg
+
+_pycache_/
+
