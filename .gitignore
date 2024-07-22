@@ -8,5 +8,5 @@ lib/
 include/
 pyvenv.cfg
 
-_pycache_/
+__pycache__/
 
